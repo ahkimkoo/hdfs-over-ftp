@@ -13,3 +13,6 @@ Installation and running
 
 Under linux you can mount ftp using curlftpfs:
 sudo curlftpfs  -o allow_other ftp://user:pass@localhost:2222 ftpfs
+
+=============
+Upgraded hdfs dependency, support hadoop2.X now.
